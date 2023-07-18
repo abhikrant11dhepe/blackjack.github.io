@@ -1,1 +1,1 @@
-# blackjack.github.io
+# Simple Black Jack Game
